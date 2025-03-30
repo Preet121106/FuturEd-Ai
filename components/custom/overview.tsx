@@ -24,7 +24,7 @@ export const Overview = () => {
         <p className="text-accent-foreground">
           <div className="flex justify-center items-center">
             <div className="text-4xl md:text-6xl font-bold tracking-tight bg-gradient-to-r bg-clip-text">
-              <AuroraText>Hello Dev !</AuroraText>
+              <AuroraText>Hello !</AuroraText>
               <br />
             </div>
           </div>
